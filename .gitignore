@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Conda / local tooling
+.conda-env/
+.workbuddy/
+.wine-tools/
+
+# PyInstaller
+build/
+dist/
+*.manifest
+*.spec.bak
+
+# Backups / archives / OS
+*.bak
+*.bak-*
+*.tgz
+*.tar.gz
+.DS_Store
+._*
+
+# Editors
+.idea/
+.vscode/
