@@ -30,3 +30,6 @@ dist/
 # Editors
 .idea/
 .vscode/
+
+# local auth temp
+.gh-auth*
