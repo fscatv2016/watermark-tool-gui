@@ -33,3 +33,4 @@ dist/
 
 # local auth temp
 .gh-auth*
+watermark-src-for-push.tgz
